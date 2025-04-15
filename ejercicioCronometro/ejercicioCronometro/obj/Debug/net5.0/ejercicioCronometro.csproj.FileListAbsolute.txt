@@ -1,0 +1,16 @@
+C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\bin\Debug\net5.0\ejercicioCronometro.exe
+C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\bin\Debug\net5.0\ejercicioCronometro.deps.json
+C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\bin\Debug\net5.0\ejercicioCronometro.runtimeconfig.json
+C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\bin\Debug\net5.0\ejercicioCronometro.runtimeconfig.dev.json
+C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\bin\Debug\net5.0\ejercicioCronometro.dll
+C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\bin\Debug\net5.0\ref\ejercicioCronometro.dll
+C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\bin\Debug\net5.0\ejercicioCronometro.pdb
+C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ejercicioCronometro.csproj.AssemblyReference.cache
+C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ejercicioCronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ejercicioCronometro.AssemblyInfoInputs.cache
+C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ejercicioCronometro.AssemblyInfo.cs
+C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ejercicioCronometro.csproj.CoreCompileInputs.cache
+C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ejercicioCronometro.dll
+C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ref\ejercicioCronometro.dll
+C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ejercicioCronometro.pdb
+C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ejercicioCronometro.genruntimeconfig.cache
