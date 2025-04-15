@@ -1,0 +1,16 @@
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioVehiculos\ejercicioVehiculos\bin\Debug\net5.0\ejercicioVehiculos.exe
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioVehiculos\ejercicioVehiculos\bin\Debug\net5.0\ejercicioVehiculos.deps.json
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioVehiculos\ejercicioVehiculos\bin\Debug\net5.0\ejercicioVehiculos.runtimeconfig.json
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioVehiculos\ejercicioVehiculos\bin\Debug\net5.0\ejercicioVehiculos.runtimeconfig.dev.json
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioVehiculos\ejercicioVehiculos\bin\Debug\net5.0\ejercicioVehiculos.dll
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioVehiculos\ejercicioVehiculos\bin\Debug\net5.0\ref\ejercicioVehiculos.dll
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioVehiculos\ejercicioVehiculos\bin\Debug\net5.0\ejercicioVehiculos.pdb
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioVehiculos\ejercicioVehiculos\obj\Debug\net5.0\ejercicioVehiculos.csproj.AssemblyReference.cache
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioVehiculos\ejercicioVehiculos\obj\Debug\net5.0\ejercicioVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioVehiculos\ejercicioVehiculos\obj\Debug\net5.0\ejercicioVehiculos.AssemblyInfoInputs.cache
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioVehiculos\ejercicioVehiculos\obj\Debug\net5.0\ejercicioVehiculos.AssemblyInfo.cs
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioVehiculos\ejercicioVehiculos\obj\Debug\net5.0\ejercicioVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioVehiculos\ejercicioVehiculos\obj\Debug\net5.0\ejercicioVehiculos.dll
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioVehiculos\ejercicioVehiculos\obj\Debug\net5.0\ref\ejercicioVehiculos.dll
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioVehiculos\ejercicioVehiculos\obj\Debug\net5.0\ejercicioVehiculos.pdb
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioVehiculos\ejercicioVehiculos\obj\Debug\net5.0\ejercicioVehiculos.genruntimeconfig.cache
