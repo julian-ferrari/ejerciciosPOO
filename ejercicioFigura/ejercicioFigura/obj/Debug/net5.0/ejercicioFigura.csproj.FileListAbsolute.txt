@@ -1,0 +1,16 @@
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioFigura\ejercicioFigura\bin\Debug\net5.0\ejercicioFigura.exe
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioFigura\ejercicioFigura\bin\Debug\net5.0\ejercicioFigura.deps.json
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioFigura\ejercicioFigura\bin\Debug\net5.0\ejercicioFigura.runtimeconfig.json
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioFigura\ejercicioFigura\bin\Debug\net5.0\ejercicioFigura.runtimeconfig.dev.json
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioFigura\ejercicioFigura\bin\Debug\net5.0\ejercicioFigura.dll
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioFigura\ejercicioFigura\bin\Debug\net5.0\ref\ejercicioFigura.dll
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioFigura\ejercicioFigura\bin\Debug\net5.0\ejercicioFigura.pdb
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioFigura\ejercicioFigura\obj\Debug\net5.0\ejercicioFigura.csproj.AssemblyReference.cache
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioFigura\ejercicioFigura\obj\Debug\net5.0\ejercicioFigura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioFigura\ejercicioFigura\obj\Debug\net5.0\ejercicioFigura.AssemblyInfoInputs.cache
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioFigura\ejercicioFigura\obj\Debug\net5.0\ejercicioFigura.AssemblyInfo.cs
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioFigura\ejercicioFigura\obj\Debug\net5.0\ejercicioFigura.csproj.CoreCompileInputs.cache
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioFigura\ejercicioFigura\obj\Debug\net5.0\ejercicioFigura.dll
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioFigura\ejercicioFigura\obj\Debug\net5.0\ref\ejercicioFigura.dll
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioFigura\ejercicioFigura\obj\Debug\net5.0\ejercicioFigura.pdb
+C:\Users\Punto Digital\Desktop\ejerciciosPOO\ejerciciosPOO\ejercicioFigura\ejercicioFigura\obj\Debug\net5.0\ejercicioFigura.genruntimeconfig.cache
