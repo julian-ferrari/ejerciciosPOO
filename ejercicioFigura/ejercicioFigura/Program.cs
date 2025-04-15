@@ -94,6 +94,20 @@ namespace ejercicioFigura
     {
         static void Main(string[] args)
         {
+            Figura[] figuras = new Figura[4];
+
+            figuras[0] = new Rectangulo(4, 5);
+            figuras[1] = new Triangulo(3, 4);
+            figuras[2] = new Cuadrado(6);
+            figuras[3] = new Circulo(3);
+
+            for (int i = 0; i < 4; i++)
+            {
+                Console.WriteLine($"Figura: {i + 1}");
+                Console.WriteLine($"Área: {figuras[i].CalcularArea()}");
+                Console.WriteLine($"Perímetro: {figuras[i].CalcularPerimetro()}");
+            }
+            /*
             Figura rectangulo = new Rectangulo(4, 5);
             Figura triangulo = new Triangulo(3, 4);
             Figura cuadrado = new Cuadrado(6);
@@ -114,6 +128,7 @@ namespace ejercicioFigura
             Console.WriteLine("\nCírculo:");
             Console.WriteLine($"Área: {circulo.CalcularArea()}");
             Console.WriteLine($"Perímetro: {circulo.CalcularPerimetro()}");
+            */
         }
     }
 }
