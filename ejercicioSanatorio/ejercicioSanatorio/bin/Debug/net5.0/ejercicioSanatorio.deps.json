@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejercicioSanatorio/1.0.0": {
+        "runtime": {
+          "ejercicioSanatorio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejercicioSanatorio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
