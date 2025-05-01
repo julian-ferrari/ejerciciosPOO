@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{7EE4FB72-171D-4D96-9263-3F09B9BECD15}|ejercicioJugador\\ejercicioJugador.csproj|c:\\users\\usuario\\desktop\\ejerciciospoo\\ejerciciojugador\\ejerciciojugador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE4FB72-171D-4D96-9263-3F09B9BECD15}|ejercicioJugador\\ejercicioJugador.csproj|solutionrelative:ejerciciojugador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE4FB72-171D-4D96-9263-3F09B9BECD15}|ejercicioJugador\\ejercicioJugador.csproj|c:\\users\\usuario\\desktop\\ejerciciospoo\\ejerciciojugador\\ejerciciojugador\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE4FB72-171D-4D96-9263-3F09B9BECD15}|ejercicioJugador\\ejercicioJugador.csproj|solutionrelative:ejerciciojugador\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE4FB72-171D-4D96-9263-3F09B9BECD15}|ejercicioJugador\\ejercicioJugador.csproj|c:\\users\\usuario\\desktop\\ejerciciospoo\\ejerciciojugador\\ejerciciojugador\\amateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE4FB72-171D-4D96-9263-3F09B9BECD15}|ejercicioJugador\\ejercicioJugador.csproj|solutionrelative:ejerciciojugador\\amateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE4FB72-171D-4D96-9263-3F09B9BECD15}|ejercicioJugador\\ejercicioJugador.csproj|c:\\users\\usuario\\desktop\\ejerciciospoo\\ejerciciojugador\\ejerciciojugador\\profesional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE4FB72-171D-4D96-9263-3F09B9BECD15}|ejercicioJugador\\ejercicioJugador.csproj|solutionrelative:ejerciciojugador\\profesional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profesional.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ejerciciosPOO\\ejercicioJugador\\ejercicioJugador\\Profesional.cs",
+              "RelativeDocumentMoniker": "ejercicioJugador\\Profesional.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ejerciciosPOO\\ejercicioJugador\\ejercicioJugador\\Profesional.cs",
+              "RelativeToolTip": "ejercicioJugador\\Profesional.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:59:56.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Amateur.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ejerciciosPOO\\ejercicioJugador\\ejercicioJugador\\Amateur.cs",
+              "RelativeDocumentMoniker": "ejercicioJugador\\Amateur.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ejerciciosPOO\\ejercicioJugador\\ejercicioJugador\\Amateur.cs",
+              "RelativeToolTip": "ejercicioJugador\\Amateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:59:41.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ejerciciosPOO\\ejercicioJugador\\ejercicioJugador\\Jugador.cs",
+              "RelativeDocumentMoniker": "ejercicioJugador\\Jugador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ejerciciosPOO\\ejercicioJugador\\ejercicioJugador\\Jugador.cs",
+              "RelativeToolTip": "ejercicioJugador\\Jugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:59:25.732Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "ejercicioJugador\\Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\ejerciciosPOO\\ejercicioJugador\\ejercicioJugador\\Program.cs",
               "RelativeToolTip": "ejercicioJugador\\Program.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAcwFkAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T16:43:32.489Z",
               "EditorCaption": ""
