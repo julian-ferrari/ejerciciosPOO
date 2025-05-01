@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\EjercicioSemaforo\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\ejerciciosPOO\\EjercicioSemaforo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E597F42-C55A-4473-98D9-D404E9944A22}|EjercicioSemaforo\\EjercicioSemaforo.csproj|c:\\users\\usuario\\downloads\\ejerciciosemaforo\\ejerciciosemaforo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E597F42-C55A-4473-98D9-D404E9944A22}|EjercicioSemaforo\\EjercicioSemaforo.csproj|c:\\users\\usuario\\desktop\\ejerciciospoo\\ejerciciosemaforo\\ejerciciosemaforo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E597F42-C55A-4473-98D9-D404E9944A22}|EjercicioSemaforo\\EjercicioSemaforo.csproj|solutionrelative:ejerciciosemaforo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E597F42-C55A-4473-98D9-D404E9944A22}|EjercicioSemaforo\\EjercicioSemaforo.csproj|c:\\users\\usuario\\desktop\\ejerciciospoo\\ejerciciosemaforo\\ejerciciosemaforo\\semaforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E597F42-C55A-4473-98D9-D404E9944A22}|EjercicioSemaforo\\EjercicioSemaforo.csproj|solutionrelative:ejerciciosemaforo\\semaforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Semaforo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ejerciciosPOO\\EjercicioSemaforo\\EjercicioSemaforo\\Semaforo.cs",
+              "RelativeDocumentMoniker": "EjercicioSemaforo\\Semaforo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ejerciciosPOO\\EjercicioSemaforo\\EjercicioSemaforo\\Semaforo.cs",
+              "RelativeToolTip": "EjercicioSemaforo\\Semaforo.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAwwAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:40:57.786Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\EjercicioSemaforo\\EjercicioSemaforo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ejerciciosPOO\\EjercicioSemaforo\\EjercicioSemaforo\\Program.cs",
               "RelativeDocumentMoniker": "EjercicioSemaforo\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\EjercicioSemaforo\\EjercicioSemaforo\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ejerciciosPOO\\EjercicioSemaforo\\EjercicioSemaforo\\Program.cs",
               "RelativeToolTip": "EjercicioSemaforo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwGwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T22:51:52.17Z",
               "EditorCaption": ""

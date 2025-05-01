@@ -14,3 +14,20 @@ C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\obj\
 C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ref\ejercicioCronometro.dll
 C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ejercicioCronometro.pdb
 C:\Users\Punto Digital\source\repos\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ejercicioCronometro.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioCronometro\ejercicioCronometro\bin\Debug\net5.0\ejercicioCronometro.exe
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioCronometro\ejercicioCronometro\bin\Debug\net5.0\ejercicioCronometro.deps.json
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioCronometro\ejercicioCronometro\bin\Debug\net5.0\ejercicioCronometro.runtimeconfig.json
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioCronometro\ejercicioCronometro\bin\Debug\net5.0\ejercicioCronometro.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioCronometro\ejercicioCronometro\bin\Debug\net5.0\ejercicioCronometro.dll
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioCronometro\ejercicioCronometro\bin\Debug\net5.0\ejercicioCronometro.pdb
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ejercicioCronometro.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ejercicioCronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ejercicioCronometro.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ejercicioCronometro.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ejercicioCronometro.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ejercicioCronometro.sourcelink.json
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ejercicioCronometro.dll
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\refint\ejercicioCronometro.dll
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ejercicioCronometro.pdb
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ejercicioCronometro.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioCronometro\ejercicioCronometro\obj\Debug\net5.0\ref\ejercicioCronometro.dll

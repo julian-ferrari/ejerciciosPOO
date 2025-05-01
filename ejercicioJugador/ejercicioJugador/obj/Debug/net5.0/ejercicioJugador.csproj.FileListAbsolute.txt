@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioJugador\ejercicioJugador\bin\Debug\net5.0\ejercicioJugador.exe
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioJugador\ejercicioJugador\bin\Debug\net5.0\ejercicioJugador.deps.json
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioJugador\ejercicioJugador\bin\Debug\net5.0\ejercicioJugador.runtimeconfig.json
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioJugador\ejercicioJugador\bin\Debug\net5.0\ejercicioJugador.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioJugador\ejercicioJugador\bin\Debug\net5.0\ejercicioJugador.dll
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioJugador\ejercicioJugador\bin\Debug\net5.0\ejercicioJugador.pdb
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioJugador\ejercicioJugador\obj\Debug\net5.0\ejercicioJugador.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioJugador\ejercicioJugador\obj\Debug\net5.0\ejercicioJugador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioJugador\ejercicioJugador\obj\Debug\net5.0\ejercicioJugador.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioJugador\ejercicioJugador\obj\Debug\net5.0\ejercicioJugador.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioJugador\ejercicioJugador\obj\Debug\net5.0\ejercicioJugador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioJugador\ejercicioJugador\obj\Debug\net5.0\ejercicioJugador.sourcelink.json
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioJugador\ejercicioJugador\obj\Debug\net5.0\ejercicioJugador.dll
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioJugador\ejercicioJugador\obj\Debug\net5.0\refint\ejercicioJugador.dll
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioJugador\ejercicioJugador\obj\Debug\net5.0\ejercicioJugador.pdb
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioJugador\ejercicioJugador\obj\Debug\net5.0\ejercicioJugador.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ejerciciosPOO\ejercicioJugador\ejercicioJugador\obj\Debug\net5.0\ref\ejercicioJugador.dll
