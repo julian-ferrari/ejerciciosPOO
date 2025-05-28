@@ -1,22 +1,25 @@
 ﻿using System;
 
-public class Circulo : Figura
+namespace ejercicioFigura
 {
-    public double radio;
-    public static readonly double Pi = 3.1416;
-
-    public Circulo(double r)
+    public class Circulo : Figura
     {
-        radio = r;
-    }
+        public double radio;
+        public static readonly double Pi = 3.1416;
 
-    public double CalcularArea()
-    {
-        return Pi * (radio * radio);
-    }
+        public Circulo(double r)
+        {
+            radio = r;
+        }
 
-    public double CalcularPerimetro()
-    {
-        return 2 * Pi * radio;
+        public double CalcularArea()
+        {
+            return Pi * (radio * radio);
+        }
+
+        public double CalcularPerimetro()
+        {
+            return 2 * Pi * radio;
+        }
     }
 }

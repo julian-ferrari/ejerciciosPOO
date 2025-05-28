@@ -1,23 +1,28 @@
 ﻿using System;
 
-public class Triangulo : Figura
+namespace ejercicioFigura
 {
-    public double _base;
-    public double altura;
-
-    public Triangulo(double b, double a)
+    public class Triangulo : Figura
     {
-        _base = b;
-        altura = a;
-    }
+        public double _base;
+        public double altura;
 
-    public double CalcularArea()
-    {
-        return (_base * altura) / 2;
-    }
+        public Triangulo(double b, double a)
+        {
+            _base = b;
+            altura = a;
+        }
 
-    public double CalcularPerimetro()
-    {
-        return _base * 3;
+        public double CalcularArea()
+        {
+            return (_base * altura) / 2;
+        }
+
+        public double CalcularPerimetro()
+        {
+            return _base * 3;
+        }
     }
 }
+
+  

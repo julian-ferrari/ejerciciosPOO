@@ -1,21 +1,26 @@
 ﻿using System;
 
-public class Cuadrado : Figura
+namespace ejercicioFigura
 {
-    public double lado;
-
-    public Cuadrado(double l)
+    public class Cuadrado : Figura
     {
-        lado = l;
-    }
+        public double lado;
 
-    public double CalcularArea()
-    {
-        return lado * lado;
-    }
+        public Cuadrado(double l)
+        {
+            lado = l;
+        }
 
-    public double CalcularPerimetro()
-    {
-        return lado * 4;
+        public double CalcularArea()
+        {
+            return lado * lado;
+        }
+
+        public double CalcularPerimetro()
+        {
+            return lado * 4;
+        }
     }
 }
+
+   
