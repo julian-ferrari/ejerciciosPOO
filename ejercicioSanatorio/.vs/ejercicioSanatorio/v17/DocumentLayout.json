@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\ejerciciosPOO\\ejercicioSanatorio\\",
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\ejerciciosPOO\\ejercicioSanatorio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D010398D-3FB4-4EF8-BFD0-E357BA27E940}|ejercicioSanatorio\\ejercicioSanatorio.csproj|c:\\users\\usuario\\desktop\\ejerciciospoo\\ejerciciosanatorio\\ejerciciosanatorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D010398D-3FB4-4EF8-BFD0-E357BA27E940}|ejercicioSanatorio\\ejercicioSanatorio.csproj|c:\\users\\pc\\desktop\\ejerciciospoo\\ejerciciosanatorio\\ejerciciosanatorio\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D010398D-3FB4-4EF8-BFD0-E357BA27E940}|ejercicioSanatorio\\ejercicioSanatorio.csproj|solutionrelative:ejerciciosanatorio\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D010398D-3FB4-4EF8-BFD0-E357BA27E940}|ejercicioSanatorio\\ejercicioSanatorio.csproj|c:\\users\\pc\\desktop\\ejerciciospoo\\ejerciciosanatorio\\ejerciciosanatorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D010398D-3FB4-4EF8-BFD0-E357BA27E940}|ejercicioSanatorio\\ejercicioSanatorio.csproj|solutionrelative:ejerciciosanatorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D010398D-3FB4-4EF8-BFD0-E357BA27E940}|ejercicioSanatorio\\ejercicioSanatorio.csproj|c:\\users\\pc\\desktop\\ejerciciospoo\\ejerciciosanatorio\\ejerciciosanatorio\\intervencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D010398D-3FB4-4EF8-BFD0-E357BA27E940}|ejercicioSanatorio\\ejercicioSanatorio.csproj|solutionrelative:ejerciciosanatorio\\intervencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D010398D-3FB4-4EF8-BFD0-E357BA27E940}|ejercicioSanatorio\\ejercicioSanatorio.csproj|c:\\users\\pc\\desktop\\ejerciciospoo\\ejerciciosanatorio\\ejerciciosanatorio\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D010398D-3FB4-4EF8-BFD0-E357BA27E940}|ejercicioSanatorio\\ejercicioSanatorio.csproj|solutionrelative:ejerciciosanatorio\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D010398D-3FB4-4EF8-BFD0-E357BA27E940}|ejercicioSanatorio\\ejercicioSanatorio.csproj|c:\\users\\pc\\desktop\\ejerciciospoo\\ejerciciosanatorio\\ejerciciosanatorio\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D010398D-3FB4-4EF8-BFD0-E357BA27E940}|ejercicioSanatorio\\ejercicioSanatorio.csproj|solutionrelative:ejerciciosanatorio\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ejerciciosPOO\\ejercicioSanatorio\\ejercicioSanatorio\\Hospital.cs",
+              "RelativeDocumentMoniker": "ejercicioSanatorio\\Hospital.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ejerciciosPOO\\ejercicioSanatorio\\ejercicioSanatorio\\Hospital.cs",
+              "RelativeToolTip": "ejercicioSanatorio\\Hospital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:33:39.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Intervencion.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ejerciciosPOO\\ejercicioSanatorio\\ejercicioSanatorio\\Intervencion.cs",
+              "RelativeDocumentMoniker": "ejercicioSanatorio\\Intervencion.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ejerciciosPOO\\ejercicioSanatorio\\ejercicioSanatorio\\Intervencion.cs",
+              "RelativeToolTip": "ejercicioSanatorio\\Intervencion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:32:43.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ejerciciosPOO\\ejercicioSanatorio\\ejercicioSanatorio\\Paciente.cs",
+              "RelativeDocumentMoniker": "ejercicioSanatorio\\Paciente.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ejerciciosPOO\\ejercicioSanatorio\\ejercicioSanatorio\\Paciente.cs",
+              "RelativeToolTip": "ejercicioSanatorio\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:24:57.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ejerciciosPOO\\ejercicioSanatorio\\ejercicioSanatorio\\Doctor.cs",
+              "RelativeDocumentMoniker": "ejercicioSanatorio\\Doctor.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ejerciciosPOO\\ejercicioSanatorio\\ejercicioSanatorio\\Doctor.cs",
+              "RelativeToolTip": "ejercicioSanatorio\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:16:33.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ejerciciosPOO\\ejercicioSanatorio\\ejercicioSanatorio\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ejerciciosPOO\\ejercicioSanatorio\\ejercicioSanatorio\\Program.cs",
               "RelativeDocumentMoniker": "ejercicioSanatorio\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ejerciciosPOO\\ejercicioSanatorio\\ejercicioSanatorio\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ejerciciosPOO\\ejercicioSanatorio\\ejercicioSanatorio\\Program.cs",
               "RelativeToolTip": "ejercicioSanatorio\\Program.cs",
-              "ViewState": "AgIAAKgAAAAAAAAAAAAqwL4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T16:05:08.777Z",
               "EditorCaption": ""
